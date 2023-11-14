@@ -1,7 +1,7 @@
 # Bangla-Hate-Speech-Detection-System-Using-Transformer-Based-NLP-and-Deep-Learning-Techniques
 
 
-Research Related works Please Read the full paper with the following Link:  https://ieeexplore.ieee.org/document/10269919
+Our research paper was finally published in IEEE. Please read the full paper with the following Link:  https://ieeexplore.ieee.org/document/10269919
 
 ### Citation:
 
